@@ -10,6 +10,15 @@
 
 ---
 
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://kishan-portfolio-vc8n.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-chouhan-2796b233a)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KishanChouhan95)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishanchouhanc95@gmail.com)
+
+---
+
 ## 🚀 About Me
 
 - 🔭 **Current Focus:** Building scalable full-stack web applications using Node.js, Express.js, React, and Spring Boot.
