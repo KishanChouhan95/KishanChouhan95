@@ -93,13 +93,16 @@
     <rect width="420" height="546" rx="16" fill="#0F172A" fill-opacity="0.65" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1"/>
     
     <!-- User Photo Frame -->
-   <image href="./picture.png"
+  <g transform="translate(30, 45)">
+    <image href="./picture.png"
        x="0"
        y="0"
        width="360"
        height="400"
        preserveAspectRatio="xMidYMid slice"
        clip-path="url(#avatarClip)"/>
+      <rect width="360" height="400" rx="14" fill="none" stroke="rgba(34, 211, 238, 0.4)" stroke-width="1.5" filter="url(#softGlow)"/>
+    </g>
 
     <!-- Scanline Line Animation -->
     <g clip-path="url(#avatarClip)" transform="translate(30, 45)">
