@@ -1,10 +1,12 @@
 # Hi there, I'm Kishan Chouhan 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Kishan Chouhan - Profile Banner" src="dark2.svg" width="100%">
-</picture>
+<p align="center">
+  <img
+    src="./dark2.svg"
+    alt="Kishan Chouhan - Profile Banner"
+    width="100%"
+  >
+</p>
 
 ---
 
