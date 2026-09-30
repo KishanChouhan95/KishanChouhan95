@@ -1,11 +1,7 @@
 # Hi there, I'm Kishan Chouhan 👋
 
 <p align="center">
-  <img
-    src="./dark2.svg"
-    alt="Kishan Chouhan - Profile Banner"
-    width="100%"
-  >
+  <img src="./dark2.png" alt="Kishan Chouhan - Profile Banner" width="100%">
 </p>
 
 ---
